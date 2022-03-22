@@ -1,0 +1,26 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Raleway"
+             href="https://fonts.googleapis.com/css?family=Raleway"></mj-font>
+  </mj-head>
+  <mj-body background-color="#d4cbc6">
+
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image padding-top="0" padding-bottom="0" src="https://cdn.statically.io/gh/solomonjames/wedding/master/save-the-date-v3.png" href="http://jaimieandjames.com"></mj-image>
+        <mj-text font-size="15px" font-family="Raleway" padding-top="0" padding-bottom="0" align="center" text-transform="uppercase" font-weight="bold">
+          <p>{{ $name }}</p>
+        </mj-text>
+
+        <mj-text font-size="15px" font-family="Raleway" padding-top="0" padding-bottom="0" align="center">
+          <p>We look forward to celebrating with you!</p>
+          <p>Please visit our website for more information.</p>
+        </mj-text>
+
+        <mj-divider border-width="1px" border-color="#FFFFFF"></mj-divider>
+
+        <mj-button font-family="Raleway" font-weight="bold" letter-spacing="1px" border-radius="8px" href="http://jaimieandjames.com" background-color="#83402E" font-size="12px" color="#FFFFFF" font-family="Raleway" text-transform="uppercase">Visit Website</mj-button>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
