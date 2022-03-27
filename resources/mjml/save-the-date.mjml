@@ -16,6 +16,9 @@
           <p>We look forward to celebrating with you!</p>
           <p>Please visit our website for more information.</p>
         </mj-text>
+        <mj-text font-style="italic" font-size="12px" font-family="Raleway" padding-top="0" padding-bottom="0" align="center">
+          <p>Formal invite to follow.</p>
+        </mj-text>
 
         <mj-divider border-width="1px" border-color="#FFFFFF"></mj-divider>
 

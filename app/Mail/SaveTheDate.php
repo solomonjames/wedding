@@ -27,7 +27,7 @@ class SaveTheDate extends Mailable
      */
     public function build()
     {
-        $this->subject('We\'re are getting married!');
+        $this->subject('We\'re getting married!');
 
         return $this->view('emails.save-the-date', [
             'name' => $this->toName,

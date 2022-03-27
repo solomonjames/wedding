@@ -140,6 +140,13 @@
                       </td>
                     </tr>
                     <tr>
+                      <td align="center" style="font-size:0px;padding:10px 25px;padding-top:0;padding-bottom:0;word-break:break-word;">
+                        <div style="font-family:Raleway;font-size:12px;font-style:italic;line-height:1;text-align:center;color:#000000;">
+                          <p>Formal invite to follow.</p>
+                        </div>
+                      </td>
+                    </tr>
+                    <tr>
                       <td align="center" style="font-size:0px;padding:10px 25px;word-break:break-word;">
                         <p style="border-top:solid 1px #FFFFFF;font-size:1px;margin:0px auto;width:100%;">
                         </p>
